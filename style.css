@@ -1,0 +1,14 @@
+.box {
+    margin-left: 250px;
+    margin-top: 100px;
+    width: 1249px;
+    height: 376px;
+    background-color: rgba(34, 244, 218, 1);
+    border-radius: 30px;
+    border: 1px rgba(34, 244, 218, 1);
+}
+h1 {
+    color: rgba(0, 0, 0, 1);
+    padding-left: 550px;
+    padding-top: 50px;
+}
